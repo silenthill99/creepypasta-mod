@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "creepypasta_mod:item/lavender_town"
+  }
+}

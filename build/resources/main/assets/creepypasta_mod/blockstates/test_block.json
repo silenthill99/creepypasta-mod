@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "creepypasta_mod:block/test_block"
+    }
+  }
+}

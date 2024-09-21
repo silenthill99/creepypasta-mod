@@ -1,0 +1,10 @@
+{
+  "lavender": {
+    "sounds": [
+      {
+        "name": "creepypasta_mod:lavender",
+        "stream": true
+      }
+    ]
+  }
+}
